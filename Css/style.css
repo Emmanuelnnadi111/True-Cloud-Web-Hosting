@@ -1,0 +1,25 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+html {
+    scroll-behavior: smooth;
+}
+.bg-price-col {
+    background-color: #FFE87A;
+}
+.bg-body-white {
+    background-color: white;
+}
+
+/* card-eff */
+.card-eff {
+    
+    transition: all ease-in-out 0.5s;
+}
+.card-eff:hover {
+    transform: scale(1.1);
+}
+
+.footer-bg-col{
+    background-color: #B00000;
+}
